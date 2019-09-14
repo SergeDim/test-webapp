@@ -9,7 +9,7 @@ public class Vehicle
 		return name;
 	}
 	public void setName(String name) {
-		this.name = name+"s";
+		this.name = name;
 	}
 	public String getRegNo() {
 		return regNo;
