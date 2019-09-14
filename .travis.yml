@@ -2,5 +2,5 @@
 branches: 
   only: 
     - master
-language: "java - 7"
+language: java
 sudo: false
