@@ -44,6 +44,6 @@ public class VechileNamingTest
     {
     	String n="VOLVO1";
     	vehicle.setName(n);
-        assertEquals("VOLVO1", n);
+        assertEquals(vehicle.getName(), n);
     }
 }
